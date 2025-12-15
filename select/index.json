@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スイセンノウ",
+  "base_artist": "Gum-9",
+  "createdAt": "2025-12-15T13:34:41.675081Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スイセンノウ",
+      "artist": "Gum-9",
+      "has_synced": false,
+      "path": "select/pl_01_スイセンノウ_Gum-9.txt"
+    }
+  ]
+}
